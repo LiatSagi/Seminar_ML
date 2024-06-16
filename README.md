@@ -2,7 +2,7 @@
 This project explores the potential of machine learning algorithms, specifically K-Nearest Neighbors (KNN) and Principal Component Analysis (PCA), for predicting breast cancer using the Coimbra Breast Cancer dataset. The project involves replicating results from a research paper using KNN with 4 key features and further improving the prediction accuracy by integrating PCA for dimensionality reduction.
 
 # Dataset
-The Coimbra Breast Cancer dataset consists of data from 116 women (58 with breast cancer and 58 healthy), including 10 different blood test results. The dataset is used to train and evaluate the KNN algorithm.
+The Coimbra Breast Cancer dataset consists of data from 116 women (52 with breast cancer and 64 healthy), including 10 different blood test results. The dataset is used to train and evaluate the KNN algorithm.
 
 # The dataset consists of 10 variables:
 * Age (years): the age of the individuals.
