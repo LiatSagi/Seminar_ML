@@ -19,7 +19,7 @@ The Coimbra Breast Cancer dataset consists of data from 116 women (58 with breas
 * 1- Health controls
 * 2- Patients with breast cancer
 
-# In this project we will:
+# Project Steps:
 * Investigating the data before performing tests
 * Attempting to reproduce the article we read with the KNN algorithm
 * PCA on the data
